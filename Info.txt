@@ -1,0 +1,3 @@
+This is the file contains information about our batch
+
+We are into .NET Trainings
